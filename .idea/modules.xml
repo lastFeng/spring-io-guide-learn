@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/access-relational-data-using-jdbc-with-spring/access-relational-data-using-jdbc-with-spring.iml" filepath="$PROJECT_DIR$/access-relational-data-using-jdbc-with-spring/access-relational-data-using-jdbc-with-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-restful-web-service/consumer-restful-web-service.iml" filepath="$PROJECT_DIR$/consumer-restful-web-service/consumer-restful-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-web-service/restful-web-service.iml" filepath="$PROJECT_DIR$/restful-web-service/restful-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-task-example/schedule-task-example.iml" filepath="$PROJECT_DIR$/schedule-task-example/schedule-task-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-io-guide-learn.iml" filepath="$PROJECT_DIR$/spring-io-guide-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploading-file/uploading-file.iml" filepath="$PROJECT_DIR$/uploading-file/uploading-file.iml" />
+    </modules>
+  </component>
+</project>
