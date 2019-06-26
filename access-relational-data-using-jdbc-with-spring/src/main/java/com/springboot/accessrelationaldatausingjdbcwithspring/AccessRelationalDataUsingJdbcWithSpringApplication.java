@@ -25,6 +25,9 @@ public class AccessRelationalDataUsingJdbcWithSpringApplication implements Comma
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
 
+	/**
+	 * 使用JdbcTemplate对数据库进行操作
+	 * */
 	@Override
 	public void run(String... args) throws Exception {
 		logger.info("Create table");
@@ -48,6 +51,7 @@ public class AccessRelationalDataUsingJdbcWithSpringApplication implements Comma
 
 		logger.info("Querying for customer records where first_name = 'Josh':");
 
+		// 查询first_name为Josh的消费者
 		jdbcTemplate.query("SELECT id, first_name, last_name from customers where first_name= ?", new Object[]{"Josh"},
 			(rs, rowNum) -> new Customer(rs.getLong("id"), rs.getString("first_name"),
 				rs.getString("last_name")))

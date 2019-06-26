@@ -26,6 +26,10 @@
         <option value="$PROJECT_DIR$/consumer-restful-web-service/pom.xml" />
         <option value="$PROJECT_DIR$/access-relational-data-using-jdbc-with-spring/pom.xml" />
         <option value="$PROJECT_DIR$/uploading-file/pom.xml" />
+        <option value="$PROJECT_DIR$/authenticating-user-with-ldap/pom.xml" />
+        <option value="$PROJECT_DIR$/messaging-with-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/messaging-with-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/access-data-with-neoj4/pom.xml" />
       </list>
     </option>
   </component>

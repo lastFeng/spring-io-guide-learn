@@ -23,6 +23,7 @@ package com.springboot.uploadingfile.exception;
  * @author: Guo.Weifeng
  * @version: 1.0
  * @create: 2019/6/25 17:22
+ * 存储文件未查找异常
  */
 public class StorageFileNotFoundException extends RuntimeException {
 	public StorageFileNotFoundException(String msg) {

@@ -27,6 +27,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @author: Guo.Weifeng
  * @version: 1.0
  * @create: 2019/6/25 17:16
+ * 存储文件保存的目录
  */
 @Setter
 @Getter

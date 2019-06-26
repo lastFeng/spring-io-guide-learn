@@ -20,6 +20,10 @@
         <module>consumer-restful-web-service</module>
         <module>access-relational-data-using-jdbc-with-spring</module>
         <module>uploading-file</module>
+        <module>authenticating-user-with-ldap</module>
+        <module>messaging-with-redis</module>
+        <module>messaging-with-rabbitmq</module>
+        <module>access-data-with-neoj4</module>
     </modules>
 
     <properties>

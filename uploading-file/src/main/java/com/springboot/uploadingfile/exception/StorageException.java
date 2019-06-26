@@ -23,8 +23,10 @@ package com.springboot.uploadingfile.exception;
  * @author: Guo.Weifeng
  * @version: 1.0
  * @create: 2019/6/25 17:21
+ * 存储异常
  */
 public class StorageException extends RuntimeException {
+
 	public StorageException(String msg) {
 		super(msg);
 	}

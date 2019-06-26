@@ -29,6 +29,8 @@ import lombok.ToString;
  * @author: Guo.Weifeng
  * @version: 1.0
  * @create: 2019/6/25 16:15
+ * 利用Lomok来简化操作
+ * 消费者信息
  */
 @Setter
 @Getter
