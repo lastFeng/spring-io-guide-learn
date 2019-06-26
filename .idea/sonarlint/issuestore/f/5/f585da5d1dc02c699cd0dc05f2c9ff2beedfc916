@@ -1,0 +1,5 @@
+
+wsquid:S1171G"YMove the contents of this initializer to a standard constructor or to field initializers.(Ñ¦æ€8ìÙÄš¹-
+isquid:S33058"KInject this field value directly into "step", the only method that uses it.(Êµ¼Û8ìÙÄš¹-
+Jsquid:S3599G",Use another way to initialize this instance.(Ñ¦æ€8ìÙÄš¹-
+wsquid:S33055"TInject this field value directly into "importUserJob", the only method that uses it.(éõ¸²øÿÿÿÿ8ìÙÄš¹-
