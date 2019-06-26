@@ -24,6 +24,8 @@
         <module>messaging-with-redis</module>
         <module>messaging-with-rabbitmq</module>
         <module>access-data-with-neoj4</module>
+        <module>validating-form-input</module>
+        <module>messaging-with-jms</module>
     </modules>
 
     <properties>

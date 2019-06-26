@@ -12,12 +12,15 @@
         <module name="access-relational-data-using-jdbc-with-spring" />
         <module name="authenticating-user-with-ldap" />
         <module name="consumer-restful-web-service" />
+        <module name="create-batch-service" />
+        <module name="messaging-with-jms" />
         <module name="messaging-with-rabbitmq" />
         <module name="messaging-with-redis" />
         <module name="restful-web-service" />
         <module name="schedule-task-example" />
         <module name="spring-io-guide-learn" />
         <module name="uploading-file" />
+        <module name="validating-form-input" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -25,12 +28,15 @@
       <module name="access-relational-data-using-jdbc-with-spring" target="1.8" />
       <module name="authenticating-user-with-ldap" target="1.8" />
       <module name="consumer-restful-web-service" target="1.8" />
+      <module name="create-batch-service" target="1.8" />
+      <module name="messaging-with-jms" target="1.8" />
       <module name="messaging-with-rabbitmq" target="1.8" />
       <module name="messaging-with-redis" target="1.8" />
       <module name="restful-web-service" target="1.8" />
       <module name="schedule-task-example" target="1.8" />
       <module name="spring-io-guide-learn" target="1.8" />
       <module name="uploading-file" target="1.8" />
+      <module name="validating-form-input" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -39,12 +45,15 @@
       <module name="access-relational-data-using-jdbc-with-spring" options="-parameters" />
       <module name="authenticating-user-with-ldap" options="-parameters" />
       <module name="consumer-restful-web-service" options="-parameters" />
+      <module name="create-batch-service" options="-parameters" />
+      <module name="messaging-with-jms" options="-parameters" />
       <module name="messaging-with-rabbitmq" options="-parameters" />
       <module name="messaging-with-redis" options="-parameters" />
       <module name="restful-web-service" options="-parameters" />
       <module name="schedule-task-example" options="-parameters" />
       <module name="spring-io-guide-learn" options="-parameters" />
       <module name="uploading-file" options="-parameters" />
+      <module name="validating-form-input" options="-parameters" />
     </option>
   </component>
 </project>
