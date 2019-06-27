@@ -26,6 +26,7 @@
         <module>access-data-with-neoj4</module>
         <module>validating-form-input</module>
         <module>messaging-with-jms</module>
+        <module>security-web</module>
     </modules>
 
     <properties>
